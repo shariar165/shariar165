@@ -100,7 +100,7 @@ open_to:     [internships, research collaboration, open source]
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shariar165&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=shariar165&hide_border=true&theme=transparent&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shariar165&hide_border=true&bg_color=00000000&color=0e75b6&line=0e75b6&point=F7C35C&area=true" alt="Contribution graph" />
+<img width="95%" src="https://ghchart.rshah.org/0e75b6/shariar165" alt="Contribution graph" />
 
 </div>
 
@@ -118,7 +118,7 @@ open_to:     [internships, research collaboration, open source]
 ## 🤝 Let's connect
 
 <!-- Add your links here, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/syed-shariar-ahmed-165sas/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 -->
 
@@ -126,6 +126,6 @@ Open to internships, research collaboration, and open-source work — feel free 
 
 <div align="center">
 
-⭐ **Thanks for visiting!** If a project helps you, a star keeps me going.
+⭐ **Thanks for visiting!** 
 
 </div>
