@@ -99,6 +99,6 @@ crop advice for farmers, safety tools for students, and space simulations ground
 
 <div align="center">
 
-⭐ If one of my projects is useful to you, a star helps a lot. Thanks for visiting!
+⭐Thanks for visiting!
 
 </div>
